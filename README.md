@@ -85,6 +85,8 @@
 36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
 37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
 38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
+39. [Intro to Self Driving Car Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) by Udacity
+40. [Self Driving Car Engineer NanoDegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) by Udacity
 
 ### Videos and Lectures
 
@@ -185,6 +187,7 @@
 24. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
 25. [Hardware for AI: Understanding computer hardware & build your own computer](https://github.com/MelAbgrall/HardwareforAI)
 26. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
+
 
 
 
